@@ -1,5 +1,5 @@
 {
-    "name": "bayoehafiz/laravel-mysql-spatial",
+    "name": "bayoehafiz/laravel-spatial",
     "description": "MySQL spatial data types extension for Laravel. Customized for Mamikos app",
     "scripts": {
         "test": "phpunit -c phpunit.xml.dist",
@@ -47,7 +47,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "3.0.x-dev"
+            "dev-master": "3.0.2-dev"
         },
         "laravel": {
             "providers": [
