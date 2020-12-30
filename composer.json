@@ -1,6 +1,6 @@
 {
-    "name": "grimzy/laravel-mysql-spatial",
-    "description": "MySQL spatial data types extension for Laravel.",
+    "name": "bayoehafiz/laravel-mysql-spatial",
+    "description": "MySQL spatial data types extension for Laravel. Customized for Mamikos app",
     "scripts": {
         "test": "phpunit -c phpunit.xml.dist",
         "test:unit": "phpunit -c phpunit.xml.dist --testsuite unit",
@@ -12,6 +12,10 @@
         {
             "name": "Joseph Estefane",
             "email": "estefanejoe@gmail.com"
+        },
+        {
+            "name": "Bayu Hafiz",
+            "email": "bayuhafiz@mamiteam.com"
         }
     ],
     "require": {
